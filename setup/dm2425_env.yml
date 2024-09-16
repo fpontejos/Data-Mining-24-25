@@ -1,0 +1,17 @@
+name: DM2425
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - ydata-profiling
+  - minisom
+prefix: C:\ProgramData\anaconda3\envs\DM2425
