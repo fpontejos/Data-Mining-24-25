@@ -16,3 +16,6 @@ in class.  More resources may be added here throughout the semester:
 - Git Basics [https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 - Common Git Commands [https://www.freecodecamp.org/news/git-cheat-sheet/](https://www.freecodecamp.org/news/git-cheat-sheet/)
 - GitHub Desktop basics (video) [https://drive.google.com/file/d/1rST30CqNH3go07fZnY7GI7ChHB3zvEjc/view?usp=sharing](https://drive.google.com/file/d/1rST30CqNH3go07fZnY7GI7ChHB3zvEjc/view?usp=sharing)
+
+- Resources about visualizations:
+    - [https://www.ml4devs.com/articles/data-visualization-chart-cheatsheets/](https://www.ml4devs.com/articles/data-visualization-chart-cheatsheets/)
